@@ -4,6 +4,9 @@
 
 In this beginner-friendly project, we will be building and deploying an interactive Apple-inspired website using **React**. We'll integrate **Three.js** to bring 3D elements to life and use **GSAP** to add smooth, high-quality animations that enhance user experience. The project will demonstrate how to leverage these modern web technologies to create visually stunning, interactive websites.
 
+![Apple Website Clone](assets/image.jpg![Apple Image](https://github.com/user-attachments/assets/cce3cc30-4fa2-4ee6-91c8-c151bce5470a)
+)
+
 ## Features
 
 - **React**: Utilize React to structure the website and manage components efficiently.
@@ -25,3 +28,12 @@ In this beginner-friendly project, we will be building and deploying an interact
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/apple-website-react.git
+2. Navigate into the project directory:
+   ```bash
+   cd apple-website-clone
+3. Install the dependencies:
+   ```bash
+   npm install
+4. Run the application:
+   ```bash
+   npm start
